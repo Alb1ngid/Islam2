@@ -21,5 +21,4 @@ class SuperHero:
         return len(self.catchphrase)
 
 
-
 my_hero = SuperHero('Piter Parker', 'Spiderman', 'super spider', 100, 'piter spider man')
